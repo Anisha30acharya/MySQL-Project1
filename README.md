@@ -7,7 +7,6 @@ This SQL file creates and manipulates a Banking System Database using standard S
 --------------------
 
 1. Schema Creation
---------------------
 Database: Banking
 Tables:
 Customers: Stores customer details
@@ -15,11 +14,9 @@ Accounts: Holds account information linked to customers
 Transactions: Logs debit and credit operations for each account
 
 2. Data Insertion
--------------------
 Prepopulated sample records for customers, accounts, and transactions to simulate realistic banking data.
 
-4. SQL Queries
----------------
+3. SQL Queries
 Retrieval and filtering:
 Customers who joined after a specific date
 Active accounts with high balances
